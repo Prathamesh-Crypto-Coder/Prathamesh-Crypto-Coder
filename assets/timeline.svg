@@ -1,0 +1,45 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="900" height="130">
+  <defs>
+    <style>
+      @keyframes cp{0%,100%{opacity:.7;stroke-width:2}50%{opacity:1;stroke-width:3.5}}
+      @keyframes ng{0%,100%{opacity:.8}50%{opacity:1}}
+      .cp{animation:cp 2s ease-in-out infinite}
+      .ng{animation:ng 2s ease-in-out infinite}
+    </style>
+    <filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="lineG" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00E5FF" stop-opacity=".4"/><stop offset="60%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#FF2D95" stop-opacity=".5"/></linearGradient>
+  </defs>
+  <rect width="900" height="130" fill="#050816"/>
+  <rect x="48" y="64" width="804" height="1.5" fill="url(#lineG)"/>
+  <circle cx="50" cy="65" r="5" fill="#050816" stroke="#00E5FF" stroke-width="1.5"/>
+  <circle cx="50" cy="65" r="2" fill="#00E5FF"/>
+  <text x="50" y="53" font-family="'Courier New',Courier,monospace" font-size="9" fill="#00E5FF" text-anchor="middle">HTML/CSS</text>
+  <text x="50" y="88" font-family="'Courier New',Courier,monospace" font-size="7" fill="#8B5CF6" text-anchor="middle" opacity=".7">Foundation</text>
+  <circle cx="165" cy="65" r="5" fill="#050816" stroke="#8B5CF6" stroke-width="1.5"/>
+  <circle cx="165" cy="65" r="2" fill="#8B5CF6"/>
+  <text x="165" y="53" font-family="'Courier New',Courier,monospace" font-size="9" fill="#8B5CF6" text-anchor="middle">JavaScript</text>
+  <text x="165" y="88" font-family="'Courier New',Courier,monospace" font-size="7" fill="#8B5CF6" text-anchor="middle" opacity=".7">Logic</text>
+  <circle cx="280" cy="65" r="5" fill="#050816" stroke="#8B5CF6" stroke-width="1.5"/>
+  <circle cx="280" cy="65" r="2" fill="#8B5CF6"/>
+  <text x="280" y="53" font-family="'Courier New',Courier,monospace" font-size="9" fill="#8B5CF6" text-anchor="middle">Python</text>
+  <text x="280" y="88" font-family="'Courier New',Courier,monospace" font-size="7" fill="#8B5CF6" text-anchor="middle" opacity=".7">Power</text>
+  <circle cx="395" cy="65" r="5" fill="#050816" stroke="#8B5CF6" stroke-width="1.5"/>
+  <circle cx="395" cy="65" r="2" fill="#8B5CF6"/>
+  <text x="395" y="53" font-family="'Courier New',Courier,monospace" font-size="9" fill="#8B5CF6" text-anchor="middle">Full Stack</text>
+  <text x="395" y="88" font-family="'Courier New',Courier,monospace" font-size="7" fill="#8B5CF6" text-anchor="middle" opacity=".7">Scale</text>
+  <circle cx="510" cy="65" r="5" fill="#050816" stroke="#FF2D95" stroke-width="1.5"/>
+  <circle cx="510" cy="65" r="2" fill="#FF2D95"/>
+  <text x="510" y="53" font-family="'Courier New',Courier,monospace" font-size="9" fill="#FF2D95" text-anchor="middle">OneFlow</text>
+  <text x="510" y="88" font-family="'Courier New',Courier,monospace" font-size="7" fill="#FF2D95" text-anchor="middle" opacity=".7">Startup</text>
+  <circle cx="625" cy="65" r="5" fill="#050816" stroke="#FF2D95" stroke-width="1.5"/>
+  <circle cx="625" cy="65" r="2" fill="#FF2D95"/>
+  <text x="625" y="53" font-family="'Courier New',Courier,monospace" font-size="9" fill="#FF2D95" text-anchor="middle">SENTRA</text>
+  <text x="625" y="88" font-family="'Courier New',Courier,monospace" font-size="7" fill="#FF2D95" text-anchor="middle" opacity=".7">AI Project</text>
+  <circle class="cp" cx="740" cy="65" r="9" fill="none" stroke="#00E5FF" stroke-width="2" filter="url(#g)"/>
+  <circle cx="740" cy="65" r="4" fill="#00E5FF" filter="url(#g)"/>
+  <text class="ng" x="740" y="50" font-family="'Courier New',Courier,monospace" font-size="9" fill="#00E5FF" text-anchor="middle" filter="url(#g)">LLMs+Agents</text>
+  <text class="ng" x="740" y="90" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00E5FF" text-anchor="middle">-- NOW --</text>
+  <circle cx="850" cy="65" r="5" fill="none" stroke="#8B5CF6" stroke-width="1.5" stroke-dasharray="3,2" opacity=".4"/>
+  <text x="850" y="53" font-family="'Courier New',Courier,monospace" font-size="9" fill="#8B5CF6" text-anchor="middle" opacity=".4">SaaS</text>
+  <text x="850" y="88" font-family="'Courier New',Courier,monospace" font-size="7" fill="#8B5CF6" text-anchor="middle" opacity=".4">Future</text>
+</svg>

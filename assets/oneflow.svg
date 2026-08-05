@@ -1,0 +1,31 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <defs>
+    <style>
+      @keyframes hexPulse{0%,100%{opacity:.5;stroke-width:1.5}50%{opacity:1;stroke-width:2.5}}
+      @keyframes innerPulse{0%,100%{opacity:.3}50%{opacity:.7}}
+      @keyframes dtPulse{0%,100%{opacity:.6}50%{opacity:1}}
+      .hx{animation:hexPulse 3s ease-in-out infinite}
+      .hn{animation:innerPulse 3s ease-in-out infinite}
+      .dt{animation:dtPulse 2s ease-in-out infinite}
+      .dt2{animation:dtPulse 2s ease-in-out infinite .7s}
+      .dt3{animation:dtPulse 2s ease-in-out infinite 1.4s}
+    </style>
+    <filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#00E5FF" stop-opacity=".08"/><stop offset="100%" stop-color="#8B5CF6" stop-opacity=".08"/></linearGradient>
+  </defs>
+  <polygon class="hx" points="90,10 158,50 158,130 90,170 22,130 22,50" fill="url(#bg)" stroke="#00E5FF" stroke-width="1.5" filter="url(#g)"/>
+  <polygon class="hn" points="90,30 143,62 143,118 90,150 37,118 37,62" fill="none" stroke="#8B5CF6" stroke-width=".8"/>
+  <polygon class="hn" points="90,48 128,70 128,110 90,132 52,110 52,70" fill="none" stroke="#00E5FF" stroke-width=".5" opacity=".5"/>
+  <line x1="90" y1="48" x2="90" y2="132" stroke="#00E5FF" stroke-width=".7" opacity=".25" stroke-dasharray="4,3"/>
+  <line x1="52" y1="70" x2="128" y2="110" stroke="#8B5CF6" stroke-width=".7" opacity=".25" stroke-dasharray="4,3"/>
+  <line x1="128" y1="70" x2="52" y2="110" stroke="#FF2D95" stroke-width=".7" opacity=".25" stroke-dasharray="4,3"/>
+  <circle cx="90" cy="90" r="20" fill="#050816" stroke="#00E5FF" stroke-width="1.5" filter="url(#g)"/>
+  <circle cx="90" cy="90" r="14" fill="none" stroke="#8B5CF6" stroke-width=".8" opacity=".7"/>
+  <text x="90" y="95" font-family="'Courier New',Courier,monospace" font-size="15" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="1">OF</text>
+  <circle class="dt" cx="90" cy="15" r="3.5" fill="#00E5FF" filter="url(#g)"/>
+  <circle class="dt2" cx="153" cy="54" r="2.5" fill="#8B5CF6"/>
+  <circle class="dt2" cx="153" cy="126" r="2.5" fill="#8B5CF6"/>
+  <circle class="dt" cx="90" cy="165" r="3.5" fill="#FF2D95" filter="url(#g)"/>
+  <circle class="dt3" cx="27" cy="126" r="2.5" fill="#8B5CF6"/>
+  <circle class="dt3" cx="27" cy="54" r="2.5" fill="#8B5CF6"/>
+</svg>

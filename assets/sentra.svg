@@ -1,0 +1,42 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <defs>
+    <style>
+      @keyframes p1{0%,100%{opacity:.15}50%{opacity:0}}
+      @keyframes p2{0%,100%{opacity:.1}50%{opacity:0}}
+      @keyframes nd{0%,100%{opacity:.6}50%{opacity:1}}
+      @keyframes nd2{0%,100%{opacity:.5}50%{opacity:.9}}
+      @keyframes lf{0%{stroke-dashoffset:20}100%{stroke-dashoffset:0}}
+      .p1{animation:p1 2s ease-out infinite}
+      .p2{animation:p2 2s ease-out infinite .5s}
+      .nd{animation:nd 2s ease-in-out infinite}
+      .nd2{animation:nd2 2s ease-in-out infinite .7s}
+      .lf{animation:lf 1.5s linear infinite}
+    </style>
+    <filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <circle class="p1" cx="90" cy="90" r="40" fill="none" stroke="#8B5CF6" stroke-width="1.5"/>
+  <circle class="p2" cx="90" cy="90" r="55" fill="none" stroke="#8B5CF6" stroke-width="1"/>
+  <line class="lf" x1="90" y1="90" x2="90" y2="28" stroke="#8B5CF6" stroke-width="1" opacity=".5" stroke-dasharray="5,5"/>
+  <line class="lf" x1="90" y1="90" x2="144" y2="58" stroke="#FF2D95" stroke-width="1" opacity=".5" stroke-dasharray="5,5"/>
+  <line class="lf" x1="90" y1="90" x2="144" y2="122" stroke="#8B5CF6" stroke-width="1" opacity=".5" stroke-dasharray="5,5"/>
+  <line class="lf" x1="90" y1="90" x2="90" y2="152" stroke="#FF2D95" stroke-width="1" opacity=".5" stroke-dasharray="5,5"/>
+  <line class="lf" x1="90" y1="90" x2="36" y2="122" stroke="#8B5CF6" stroke-width="1" opacity=".5" stroke-dasharray="5,5"/>
+  <line class="lf" x1="90" y1="90" x2="36" y2="58" stroke="#FF2D95" stroke-width="1" opacity=".5" stroke-dasharray="5,5"/>
+  <polygon points="90,28 144,58 144,122 90,152 36,122 36,58" fill="none" stroke="#00E5FF" stroke-width=".5" opacity=".2"/>
+  <circle class="nd" cx="90" cy="28" r="7" fill="#050816" stroke="#8B5CF6" stroke-width="1.5" filter="url(#g)"/>
+  <circle cx="90" cy="28" r="2.5" fill="#8B5CF6"/>
+  <circle class="nd2" cx="144" cy="58" r="6" fill="#050816" stroke="#FF2D95" stroke-width="1.5"/>
+  <circle cx="144" cy="58" r="2" fill="#FF2D95"/>
+  <circle class="nd" cx="144" cy="122" r="6" fill="#050816" stroke="#8B5CF6" stroke-width="1.5"/>
+  <circle cx="144" cy="122" r="2" fill="#8B5CF6"/>
+  <circle class="nd2" cx="90" cy="152" r="7" fill="#050816" stroke="#FF2D95" stroke-width="1.5" filter="url(#g)"/>
+  <circle cx="90" cy="152" r="2.5" fill="#FF2D95"/>
+  <circle class="nd" cx="36" cy="122" r="6" fill="#050816" stroke="#8B5CF6" stroke-width="1.5"/>
+  <circle cx="36" cy="122" r="2" fill="#8B5CF6"/>
+  <circle class="nd2" cx="36" cy="58" r="6" fill="#050816" stroke="#FF2D95" stroke-width="1.5"/>
+  <circle cx="36" cy="58" r="2" fill="#FF2D95"/>
+  <circle cx="90" cy="90" r="24" fill="#050816" stroke="#8B5CF6" stroke-width="2" filter="url(#g)"/>
+  <circle cx="90" cy="90" r="17" fill="#0d0820" stroke="#FF2D95" stroke-width="1" opacity=".7"/>
+  <text x="90" y="87" font-family="'Courier New',Courier,monospace" font-size="10" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="1">SEN</text>
+  <text x="90" y="100" font-family="'Courier New',Courier,monospace" font-size="10" font-weight="bold" fill="#8B5CF6" text-anchor="middle" letter-spacing="1">TRA</text>
+</svg>
