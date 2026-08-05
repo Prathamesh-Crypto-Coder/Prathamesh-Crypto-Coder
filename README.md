@@ -26,7 +26,11 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
+<div align="center">
+
 # ▸ SYSTEM.BOOT
+
+</div>
 
 ```text
 [ONEFLOW OS v2.0] Kernel loading...
@@ -52,7 +56,11 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
+<div align="center">
+
 # ▸ SYSTEM.IDENTITY
+
+</div>
 
 ```python
 class PrathameshSonar:
@@ -101,12 +109,12 @@ class PrathameshSonar:
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-# ▸ DEVELOPER.DASHBOARD
-
 <div align="center">
 
+# ▸ DEVELOPER.DASHBOARD
+
 | MODULE | STATUS | PRIORITY | LEVEL |
-|--------|--------|----------|-------|
+|:------:|:------:|:--------:|:-----:|
 | 💻 Full Stack Development | 🟢 Active | 🔥 Critical | `▓▓▓▓▓▓▓▓▓░` Advanced |
 | 🤖 Artificial Intelligence | 🟢 Active | 🔥 Critical | `▓▓▓▓▓▓░░░░` Intermediate |
 | 🚀 OneFlow Startup | 🟢 Building | 🔥 Critical | `▓▓▓▓▓▓▓▓░░` Progressing |
@@ -120,9 +128,9 @@ class PrathameshSonar:
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-# ▸ CURRENT.MISSION
-
 <div align="center">
+
+# ▸ CURRENT.MISSION
 
 ### Building products. Learning deeply. Creating the future — one commit at a time.
 
@@ -130,6 +138,7 @@ class PrathameshSonar:
 
 <br>
 
+<div align="center">
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
@@ -158,11 +167,17 @@ class PrathameshSonar:
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
+<div align="center">
+
 # ▸ ONEFLOW.OS
 
+</div>
+
+<div align="center">
 <table>
 <tr>
 <td width="28%" align="center" valign="top">
@@ -176,23 +191,16 @@ class PrathameshSonar:
 </td>
 <td width="72%" valign="top">
 <h3>Mission</h3>
-
 OneFlow is my long-term startup vision — building software products and AI-powered services that solve real-world problems. Every project I build is part of the OneFlow ecosystem.
-
-<br>
-
+<br><br>
 <strong>Current Focus</strong><br><br>
-
 &nbsp;&nbsp;• 💻 Full Stack Web Applications<br>
 &nbsp;&nbsp;• 🤖 AI-Integrated Products<br>
 &nbsp;&nbsp;• ⚙️ Scalable Backend Systems<br>
 &nbsp;&nbsp;• 🌐 Web Platforms and SaaS<br>
 &nbsp;&nbsp;• 📈 Product Development and Growth<br>
-
 <br>
-
 <strong>Startup Dashboard</strong>
-
 <pre>
 STATUS       [##################]  ACTIVE
 LEARNING     [#################.]  HIGH
@@ -200,15 +208,20 @@ PROJECTS     [##################]  FULL
 CONSISTENCY  [#################.]  STRONG
 SHIPPING     [##############....]  GROWING
 </pre>
-
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
+<div align="center">
+
 # ▸ SENTRA.AI
 
+</div>
+
+<div align="center">
 <table>
 <tr>
 <td width="28%" align="center" valign="top">
@@ -222,13 +235,9 @@ SHIPPING     [##############....]  GROWING
 </td>
 <td width="72%" valign="top">
 <h3>Overview</h3>
-
 SENTRA is my personal AI assistant — a local intelligent system with context memory, tool calling, streaming responses, and agent behavior. Built to understand how AI is engineered from the ground up.
-
 <blockquote><em>"Not just using AI — building it."</em></blockquote>
-
 <strong>Module Progress</strong>
-
 <pre>
 Memory System       [###############]  DONE
 Streaming           [################] DONE
@@ -237,10 +246,12 @@ Tool Calling        [###########....]  IN PROGRESS
 Browser Interface   [############...]  IN PROGRESS
 AI Agent Core       [########......]   PLANNED
 </pre>
-
 </td>
 </tr>
 </table>
+</div>
+
+<div align="center">
 
 ```text
 SENTRA ARCHITECTURE
@@ -257,9 +268,15 @@ SENTRA ARCHITECTURE
                            Streaming Response  -->  USER
 ```
 
+</div>
+
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
+<div align="center">
+
 # ▸ INTERACTIVE.TERMINAL
+
+</div>
 
 ```bash
 prathamesh@oneflow-os:~$ whoami
@@ -291,8 +308,13 @@ prathamesh@oneflow-os:~$ _
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
+<div align="center">
+
 # ▸ PROJECT.REGISTRY
 
+</div>
+
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -363,12 +385,13 @@ Developer portfolio showcasing projects, skills, and the OneFlow brand.
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-# ▸ TECH.ARSENAL
-
 <div align="center">
+
+# ▸ TECH.ARSENAL
 
 **💻 Languages**
 
@@ -408,72 +431,62 @@ Developer portfolio showcasing projects, skills, and the OneFlow brand.
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
+<div align="center">
+
 # ▸ KNOWLEDGE.GRAPH
 
-```text
-+----------------------------------------------------------+
-|  SKILL                  PROGRESS               LEVEL    |
-+----------------------------------------------------------+
-|  Frontend Development   ###################.   90%      |
-|  Python                 ##################..   82%      |
-|  Problem Solving        ##################..   85%      |
-|  Backend Development    ###############.....   72%      |
-|  FastAPI                ##############......   68%      |
-|  React                  ############........   60%      |
-|  Artificial Intelligence ###########.........  55%      |
-|  Node.js                ##########..........   50%      |
-|  System Design          #######.............   35%  <-- |
-+----------------------------------------------------------+
-```
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-# ▸ LEARNING.TIMELINE
+</div>
 
 <div align="center">
-<img src="assets/timeline.svg" width="100%"/>
+
+| Skill | Progress | Level |
+|:------|:--------:|------:|
+| Frontend Development | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░` | **90%** |
+| Python | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` | **82%** |
+| Problem Solving | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` | **85%** |
+| Backend Development | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░` | **72%** |
+| FastAPI | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` | **68%** |
+| React | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` | **60%** |
+| Artificial Intelligence | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` | **55%** |
+| Node.js | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` | **50%** |
+| System Design | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` | **35%** ← |
+
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-# ▸ MISSION.ROADMAP
+<div align="center">
 
-```text
----------------------------------------------------------------
-  SHORT TERM      [####################]
+# ▸ LEARNING.TIMELINE
 
-  [OK] Master React fundamentals and advanced patterns
-  [OK] Build REST APIs with FastAPI and Node.js
-  [OK] Improve problem solving skills
-  [  ] Complete SENTRA AI core features
-  [  ] Launch OneFlow website publicly
+<img src="assets/timeline.svg" width="100%"/>
 
----------------------------------------------------------------
-  MID TERM        [##################..]
-
-  [  ] Build first SaaS product
-  [  ] Integrate LLM agents into SENTRA
-  [  ] Deploy on Cloud (AWS / GCP)
-  [  ] Learn Docker and DevOps fundamentals
-  [  ] Grow OneFlow to first users
-
----------------------------------------------------------------
-  LONG TERM       [###############.....]
-
-  [  ] Create AI products used by thousands
-  [  ] Build an engineering team at OneFlow
-  [  ] Scale OneFlow globally
-  [  ] Build technology that creates real-world impact
-
----------------------------------------------------------------
-  KEY:  [OK] Complete    [  ] In Progress / Upcoming
-```
+</div>
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-# ▸ GITHUB.ANALYTICS
+<div align="center">
+
+# ▸ MISSION.ROADMAP
+
+</div>
 
 <div align="center">
+
+| Phase | Goals | Status |
+|:-----:|:------|:------:|
+| 🟢 **SHORT TERM** | Master React · Build APIs with FastAPI & Node.js · Improve Problem Solving | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓` 100% |
+| 🟡 **SHORT TERM** | Complete SENTRA AI core · Launch OneFlow website | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` 60% |
+| 🔵 **MID TERM** | First SaaS product · LLM agents · Cloud deploy · DevOps | `▓▓▓▓▓▓░░░░░░░░░░░░░░` 30% |
+| 🔵 **LONG TERM** | AI products at scale · Engineering team · Global OneFlow | `▓▓▓░░░░░░░░░░░░░░░░░` 15% |
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+
+<div align="center">
+
+# ▸ GITHUB.ANALYTICS
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Crypto-Coder&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=FF2D95&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
 &nbsp;
@@ -487,24 +500,26 @@ Developer portfolio showcasing projects, skills, and the OneFlow brand.
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
+<div align="center">
+
 # ▸ CONTRIBUTION.UNIVERSE
 
-<div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh-Crypto-Coder&bg_color=050816&color=00E5FF&line=8B5CF6&point=FF2D95&area=true&hide_border=true"/>
+
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-# ▸ ACHIEVEMENTS
-
 <div align="center">
+
+# ▸ ACHIEVEMENTS
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Prathamesh-Crypto-Coder&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 <br><br>
 
 | Trophy | Description | Status |
-|--------|-------------|--------|
+|:------:|:------------|:------:|
 | 🚀 Startup Founder | Founded OneFlow startup | ✅ Active |
 | 🤖 AI Engineer | Building SENTRA from scratch | 🟡 In Progress |
 | 💻 Full Stack Developer | React + Node.js + FastAPI | ✅ Active |
@@ -516,12 +531,17 @@ Developer portfolio showcasing projects, skills, and the OneFlow brand.
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
+<div align="center">
+
 # ▸ PHILOSOPHY.LOG
 
+</div>
+
+<div align="center">
 <table>
 <tr>
 <td width="55%" valign="top">
-<h3>Why I Build</h3>
+<h3>💭 Why I Build</h3>
 <blockquote>
 <p>I don't build projects to fill my GitHub profile.</p>
 <p>I build because every application teaches something no tutorial can.</p>
@@ -541,7 +561,7 @@ Developer portfolio showcasing projects, skills, and the OneFlow brand.
 </pre>
 </td>
 <td width="45%" valign="top">
-<h3>Core Principles</h3>
+<h3>⚙️ Core Principles</h3>
 <br>
 &#10022; &nbsp;<strong>Learn Deeply</strong> — not just surface level<br><br>
 &#10022; &nbsp;<strong>Build Consistently</strong> — every single day<br><br>
@@ -550,7 +570,7 @@ Developer portfolio showcasing projects, skills, and the OneFlow brand.
 &#10022; &nbsp;<strong>Ship Fast</strong> — iterate even faster<br><br>
 &#10022; &nbsp;<strong>Never Stop Improving</strong> — always<br>
 <br><br>
-<h3>Daily Loop</h3>
+<h3>🔄 Daily Loop</h3>
 <pre>
 while (alive) {
   learn()    // something new
@@ -563,12 +583,13 @@ while (alive) {
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-# ▸ CONNECTION.PROTOCOL
-
 <div align="center">
+
+# ▸ CONNECTION.PROTOCOL
 
 ### Connecting with developers, builders, and founders who think big.
 
