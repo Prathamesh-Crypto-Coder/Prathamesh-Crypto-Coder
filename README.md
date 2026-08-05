@@ -1,48 +1,50 @@
-<!-- ===================================================================== -->
-<!--                          ONEFLOW OPERATING SYSTEM                      -->
+﻿<!-- ===================================================================== -->
+<!--                      ONEFLOW OPERATING SYSTEM  v2.0                    -->
 <!-- ===================================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=PRATHAMESH%20SONAR&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Builder%20•%20Founder%20of%20OneFlow&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=PRATHAMESH%20SONAR&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Founder%20of%20OneFlow&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%3E+Booting+ONEFLOW+OS...;%3E+Loading+Developer+Profile...;%3E+Building+Full+Stack+Applications;%3E+Developing+Artificial+Intelligence;%3E+Creating+SENTRA+AI;%3E+Building+OneFlow+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%3E+Booting+ONEFLOW+OS+v2.0...;%3E+Loading+Developer+Profile...;%3E+Building+Full+Stack+Applications;%3E+Developing+Artificial+Intelligence;%3E+Creating+SENTRA+AI+%F0%9F%A4%96;%3E+Building+OneFlow+%F0%9F%9A%80;%3E+Shipping+Code+Every+Single+Day" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=050816"/>
-
-<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_+_AI-8B5CF6?style=for-the-badge&labelColor=050816"/>
-
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%2B%20AI-8B5CF6?style=for-the-badge&labelColor=050816"/>
+&nbsp;
 <img src="https://img.shields.io/badge/STARTUP-ONEFLOW-FF2D95?style=for-the-badge&labelColor=050816"/>
-
-<img src="https://img.shields.io/badge/COUNTRY-INDIA-FFA500?style=for-the-badge&labelColor=050816"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-INDIA-FFA500?style=for-the-badge&labelColor=050816"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Prathamesh-Crypto-Coder&label=PROFILE+VISITORS&color=00e5ff&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Prathamesh-Crypto-Coder&label=PROFILE+VISITORS&color=00e5ff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Welcome to ONEFLOW OS
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Welcome to ONEFLOW OS
 
 ```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         ONEFLOW OPERATING SYSTEM                            ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║ USER          : Prathamesh Sonar                                            ║
-║ GITHUB        : Prathamesh-Crypto-Coder                                     ║
-║ ROLE          : Full Stack Developer × AI Builder                           ║
-║ EDUCATION     : Diploma in Artificial Intelligence                          ║
-║ STARTUP       : OneFlow                                                     ║
-║ AI PROJECT    : SENTRA                                                      ║
-║ STATUS        : BUILDING THE FUTURE                                         ║
-║ VERSION       : 1.0.0                                                       ║
-╚══════════════════════════════════════════════════════════════════════════════╝
++==============================================================================+
+|                       ONEFLOW OPERATING SYSTEM  v2.0                        |
++==============================================================================+
+|  USER          : Prathamesh Sonar                                            |
+|  GITHUB        : Prathamesh-Crypto-Coder                                     |
+|  ROLE          : Full Stack Developer x AI Builder x Founder                 |
+|  EDUCATION     : Diploma in Artificial Intelligence                          |
+|  STARTUP       : OneFlow                                                     |
+|  AI PROJECT    : SENTRA                                                      |
+|  LOCATION      : India                                                       |
+|  UPTIME        : 100%  |  NO DAYS OFF                                        |
+|  STATUS        : BUILDING THE FUTURE                                         |
+|  VERSION       : 2.0.0                                                       |
++==============================================================================+
 ```
 
 ---
@@ -50,23 +52,21 @@
 # > BOOT SEQUENCE
 
 ```text
-Initializing System...
+[ONEFLOW OS] Initializing System...
 
-[████████████████████████████████████████] 100%
+[########################################] 100%
 
-Loading Developer Identity...............DONE
+[OK] Developer Identity...........................LOADED
+[OK] OneFlow Startup..............................ACTIVE
+[OK] SENTRA AI Project............................IN DEVELOPMENT
+[OK] Full Stack Skills............................ONLINE
+[OK] AI Knowledge Base............................GROWING
+[OK] GitHub Repositories..........................SYNCED
+[OK] Consistency Engine...........................ENABLED
+[OK] Learning Module..............................RUNNING
 
-Loading OneFlow..........................DONE
-
-Loading SENTRA...........................DONE
-
-Loading Projects.........................DONE
-
-Loading Skills...........................DONE
-
-Loading GitHub...........................DONE
-
-Launching Developer Dashboard............SUCCESS
+[SYSTEM] Developer Dashboard Ready.
+[SYSTEM] Welcome back, Prathamesh Sonar.
 ```
 
 ---
@@ -78,65 +78,70 @@ class PrathameshSonar:
 
     def __init__(self):
 
-        self.name = "Prathamesh Sonar"
-
-        self.username = "Prathamesh-Crypto-Coder"
+        self.name        = "Prathamesh Sonar"
+        self.username    = "Prathamesh-Crypto-Coder"
+        self.location    = "India"
 
         self.role = [
             "Full Stack Developer",
             "Artificial Intelligence Student",
-            "Founder @ OneFlow"
+            "Founder @ OneFlow",
+            "Builder of SENTRA"
         ]
 
         self.currently_building = [
-            "OneFlow",
-            "SENTRA",
-            "AI Applications",
-            "Full Stack Projects"
+            "OneFlow  -- My startup vision",
+            "SENTRA   -- Local AI assistant",
+            "Full Stack web applications",
+            "AI-powered products"
         ]
 
         self.currently_learning = [
-            "React",
-            "Node.js",
-            "FastAPI",
-            "Databases",
-            "Artificial Intelligence"
+            "React", "Node.js", "FastAPI",
+            "LLMs", "AI Agents", "System Design"
         ]
 
+        self.tools_of_choice = {
+            "languages"  : ["Python", "JavaScript", "HTML/CSS"],
+            "frontend"   : ["React", "Tailwind", "Vite"],
+            "backend"    : ["FastAPI", "Node.js", "Express"],
+            "databases"  : ["MongoDB", "MySQL", "SQLite", "Firebase"],
+            "ai"         : ["Ollama", "LangChain", "Pandas", "NumPy"],
+            "devtools"   : ["Git", "GitHub", "VSCode", "Linux", "Postman"]
+        }
+
         self.goal = """
-        Build software products
-        powered by Artificial Intelligence
-        that solve real-world problems.
+        Build AI-powered software products
+        that solve real-world problems
+        and are used by millions of people.
         """
 
     def never_stop(self):
 
         while True:
-
-            Learn()
-
-            Build()
-
-            Ship()
-
-            Improve()
+            self.Learn()
+            self.Build()
+            self.Ship()
+            self.Improve()
 ```
 
 ---
 
 # > DEVELOPER DASHBOARD
 
-| Module | Status |
-|---------|--------|
-| 💻 Full Stack Development | 🟢 Active |
-| 🤖 Artificial Intelligence | 🟢 Active |
-| 🚀 OneFlow Startup | 🟢 Building |
-| 🧠 SENTRA AI Assistant | 🟡 Development |
-| 📚 Learning | 🟢 Everyday |
-| ☕ Coffee | 🔋 Required |
-| 🌙 Sleep | ⚠ Needs Improvement |
+| Module | Status | Priority |
+|--------|--------|----------|
+| 💻 Full Stack Development | 🟢 Active | 🔥 High |
+| 🤖 Artificial Intelligence | 🟢 Active | 🔥 High |
+| 🚀 OneFlow Startup | 🟢 Building | 🔥 High |
+| 🧠 SENTRA AI Assistant | 🟡 In Development | ⚡ Medium |
+| ☁️ Cloud & DevOps | 🔵 Learning | ⚡ Medium |
+| 📐 System Design | 🔵 Learning | ⚡ Medium |
+| 📚 Consistency | 🟢 Every Day | ✅ Always |
+| ☕ Coffee | 🔋 Required | 🚨 Critical |
 
 ---
+
 <!-- ===================================================================== -->
 <!--                          CURRENT MISSION                               -->
 <!-- ===================================================================== -->
@@ -145,7 +150,7 @@ class PrathameshSonar:
 
 <div align="center">
 
-### Building products, learning deeply, and creating the future one project at a time.
+### Building products, learning deeply, and creating the future — one commit at a time.
 
 </div>
 
@@ -181,7 +186,7 @@ class PrathameshSonar:
 
 `FastAPI`
 
-`Artificial Intelligence`
+`LLMs & AI Agents`
 
 `System Design`
 
@@ -191,13 +196,13 @@ class PrathameshSonar:
 
 ## 🎯 NEXT TARGET
 
-`LLMs`
+`Advanced LLMs`
 
-`AI Agents`
-
-`Cloud`
+`Cloud Deployment`
 
 `DevOps`
+
+`SaaS Products`
 
 `Startup Growth`
 
@@ -227,19 +232,19 @@ class PrathameshSonar:
 
 ## 🌍 Mission
 
-OneFlow is my long-term vision of building products and services powered by software and Artificial Intelligence.
+OneFlow is my long-term vision — building products and services powered by software and Artificial Intelligence that solve real-world problems.
 
-Instead of creating random projects, I focus on building systems that solve real-world problems and continuously improve my engineering skills.
+Instead of random projects, I focus on building systems that continuously improve my engineering skills and move closer to real products people genuinely use.
 
 <br>
 
 ### Current Focus
 
-- 💻 Full Stack Development
-- 🤖 AI Applications
-- ⚙ Backend Systems
-- 🌐 Web Platforms
-- 📈 Product Development
+- 💻 Full Stack Web Applications
+- 🤖 AI-Integrated Products
+- ⚙️ Scalable Backend Systems
+- 🌐 Web Platforms & SaaS
+- 📈 Product Development & Growth
 
 </td>
 
@@ -248,27 +253,29 @@ Instead of creating random projects, I focus on building systems that solve real
 ## 📊 Startup Dashboard
 
 ```text
-STATUS
+DEVELOPMENT STATUS
 
-██████████████████
+[##################] ACTIVE
 
-ACTIVE DEVELOPMENT
+MISSION CLARITY
 
-MISSION
+[##################] LOCKED IN
 
-██████████████████
+LEARNING VELOCITY
 
-LEARNING
+[#################.] HIGH
 
-█████████████████░
+PROJECT PIPELINE
 
-PROJECTS
-
-██████████████████
+[##################] FULL
 
 CONSISTENCY
 
-█████████████████░
+[#################.] STRONG
+
+SHIPPING SPEED
+
+[##############....] GROWING
 ```
 
 </td>
@@ -285,7 +292,7 @@ CONSISTENCY
 
 # 🤖 SENTRA
 
-### Personal AI Assistant under development
+### Personal AI Assistant — Under Active Development
 
 </div>
 
@@ -297,40 +304,46 @@ CONSISTENCY
 
 ## ⚡ Overview
 
-SENTRA is my personal AI assistant project focused on creating a local intelligent system capable of understanding context, interacting with tools, and assisting with everyday development tasks.
+SENTRA is my personal AI assistant — a local intelligent system capable of understanding context, calling tools, interacting with files and browsers, and assisting with development tasks.
 
-The goal is not just to use AI APIs, but to understand how intelligent systems are built from the ground up.
+The goal is not just to use AI APIs, but to understand how intelligent systems are engineered from the ground up — memory, streaming, tool calling, and agent behavior.
+
+<br>
+
+### 🎯 Core Philosophy
+
+> *"Not just using AI — building it."*
 
 </td>
 
 <td width="50%" valign="top">
 
-## ⚙ Current Modules
+## ⚙️ Module Status
 
 ```text
-Memory
+Memory System
 
-███████████████
+[###############] DONE
 
-Streaming
+Streaming Responses
 
-████████████████
+[################] DONE
+
+FastAPI Backend
+
+[###############] DONE
 
 Tool Calling
 
-█████████████░░
+[############...] IN PROGRESS
 
-FastAPI
+Browser Interface
 
-███████████████
+[#############..] IN PROGRESS
 
-Frontend
+AI Agent Behavior
 
-██████████████
-
-AI Integration
-
-████████████░░
+[#########......] PLANNED
 ```
 
 </td>
@@ -339,13 +352,57 @@ AI Integration
 
 </table>
 
+### 🏗️ Architecture
+
+```text
+                        USER
+
+                         |
+                         v
+
+                 Browser Interface
+                   (Chat Frontend)
+
+                         |
+                         v
+
+                 FastAPI Backend
+                    (REST API)
+
+                         |
+
+        +----------------+-----------------+
+
+        v                v                 v
+
+   Memory            Tool Calling       AI Models
+   Engine              Layer            (Ollama)
+
+        |                |                 |
+        v                v                 v
+
+   Session          Browser Tools      Local LLMs
+   Memory           File System        (Custom)
+   (Per Chat)       Web Search
+
+                         |
+                         v
+
+                  Streaming Response
+
+                         |
+                         v
+
+                        USER
+```
+
 ---
 
 # > FEATURED.PROJECTS
 
 <div align="center">
 
-## Projects that represent my learning journey.
+## Projects that represent my engineering journey.
 
 </div>
 
@@ -355,59 +412,39 @@ AI Integration
 
 <td width="50%" valign="top">
 
-# 🚀 ONEFLOW WEBSITE
+## 🚀 ONEFLOW WEBSITE
 
 ### Startup Website
 
-#### Tech Stack
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-`React`
+**Stack:** `HTML` `CSS` `JavaScript` `React`
 
 #### Features
-
-- Modern UI
-- Responsive Design
-- Startup Branding
-- Portfolio Showcase
+- Modern, responsive UI
+- Startup branding & identity
+- Portfolio showcase
+- Dark theme design system
 
 #### Status
-
-🟢 Active Development
+🟢 **Active Development**
 
 </td>
 
 <td width="50%" valign="top">
 
-# 🤖 SENTRA
+## 🤖 SENTRA
 
-### AI Assistant
+### Personal AI Assistant
 
-#### Tech Stack
-
-`Python`
-
-`FastAPI`
-
-`JavaScript`
-
-`Ollama`
+**Stack:** `Python` `FastAPI` `JavaScript` `Ollama`
 
 #### Features
-
-- Context Memory
-- Tool Calling
-- Streaming Responses
-- Local AI Models
+- Context-aware memory
+- Tool calling system
+- Real-time streaming responses
+- Local AI model integration
 
 #### Status
-
-🟡 In Development
+🟡 **In Development**
 
 </td>
 
@@ -417,35 +454,39 @@ AI Integration
 
 <td width="50%" valign="top">
 
-# 📄 RESUME BUILDER
+## 📄 RESUME BUILDER
+
+### Resume Generator App
+
+**Stack:** `HTML` `CSS` `JavaScript`
 
 #### Features
-
-- Resume Generator
-- Responsive UI
-- Download Support
-- Modern Templates
+- Live resume generator
+- Responsive, clean UI
+- PDF download support
+- Modern templates
 
 #### Status
-
-🟢 Completed
+✅ **Completed**
 
 </td>
 
 <td width="50%" valign="top">
 
-# 🌐 PORTFOLIO
+## 🌐 PORTFOLIO
+
+### Developer Portfolio Website
+
+**Stack:** `React` `CSS` `JavaScript`
 
 #### Features
-
-- Personal Branding
-- Projects
-- Skills
-- Contact
+- Personal branding
+- Projects showcase
+- Skills display
+- Contact integration
 
 #### Status
-
-🟢 Building
+🟢 **Building**
 
 </td>
 
@@ -455,149 +496,9 @@ AI Integration
 
 ---
 
-# > DEVELOPMENT.TIMELINE
-
-```text
-Started Programming
-        │
-        ▼
-HTML & CSS
-        │
-        ▼
-JavaScript
-        │
-        ▼
-Python
-        │
-        ▼
-Full Stack Development
-        │
-        ▼
-Artificial Intelligence
-        │
-        ▼
-OneFlow Startup
-        │
-        ▼
-SENTRA AI
-        │
-        ▼
-Future AI Products
-```
-
----
-
-# > PROJECT.STATUS
-
-```text
-OneFlow                 ██████████████░░
-
-SENTRA                  ███████████░░░░
-
-Portfolio               █████████████░░
-
-Resume Builder          ███████████████
-
-Learning                ███████████████
-
-Dreaming Bigger         ███████████████
-```
-
----
 <!-- ===================================================================== -->
-<!--                        ONEFLOW ECOSYSTEM                              -->
+<!--                         TECH ARSENAL                                   -->
 <!-- ===================================================================== -->
-
-# > ONEFLOW.ECOSYSTEM
-
-<div align="center">
-
-## 🌌 Building an ecosystem, not just repositories.
-
-</div>
-
-```text
-                              ONEFLOW
-
-                                 │
-
-        ┌────────────────────────┼────────────────────────┐
-
-        │                        │                        │
-
-        ▼                        ▼                        ▼
-
-   AI PRODUCTS            WEB APPLICATIONS          DEVELOPER TOOLS
-
-        │                        │                        │
-
-        ▼                        ▼                        ▼
-
-     SENTRA              Portfolio Website          Future IDE
-
-        │                        │
-
-        ▼                        ▼
-
-  AI Automation           Client Projects
-
-```
-
----
-
-# > AI.SYSTEM.ARCHITECTURE
-
-<div align="center">
-
-## 🤖 SENTRA AI Architecture
-
-</div>
-
-```text
-                    USER
-
-                     │
-
-                     ▼
-
-             Browser Interface
-
-                     │
-
-                     ▼
-
-             FastAPI Backend
-
-                     │
-
-      ┌──────────────┼──────────────┐
-
-      ▼              ▼              ▼
-
- Memory        Tool Calling     AI Models
-
-      │              │              │
-
-      ▼              ▼              ▼
-
- Session      Browser Tools     Ollama
-
- Memory       File System       Local LLMs
-
-                     │
-
-                     ▼
-
-              Streaming Response
-
-                     │
-
-                     ▼
-
-                    USER
-```
-
----
 
 # > TECH.ARSENAL
 
@@ -609,19 +510,19 @@ Dreaming Bigger         ███████████████
 
 <br><br>
 
-## ⚛ Frontend
+## ⚛️ Frontend
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark"/>
 
 <br><br>
 
-## ⚙ Backend
+## ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express&theme=dark"/>
 
 <br><br>
 
-## 🗄 Databases
+## 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase&theme=dark"/>
 
@@ -633,7 +534,7 @@ Dreaming Bigger         ███████████████
 
 <br><br>
 
-## 🛠 Developer Tools
+## 🛠️ Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark"/>
 
@@ -644,52 +545,52 @@ Dreaming Bigger         ███████████████
 # > KNOWLEDGE.GRAPH
 
 ```text
-Frontend Development
+Frontend Development      [###################.]  90%
 
-████████████████████░░
+Python                    [##################..]  80%
 
-Backend Development
+Backend Development       [###############.....]  70%
 
-███████████████░░░░░░
+React                     [#############.......]  60%
 
-Artificial Intelligence
+FastAPI                   [##############......]  65%
 
-█████████████░░░░░░░░
+Node.js                   [###########.........]  50%
 
-React
+Artificial Intelligence   [############........]  55%
 
-██████████░░░░░░░░░░░
+Problem Solving           [##################..]  85%
 
-FastAPI
-
-███████████░░░░░░░░░░
-
-Node.js
-
-█████████░░░░░░░░░░░░
-
-Problem Solving
-
-██████████████████░░░
-
-System Design
-
-███████░░░░░░░░░░░░░░
+System Design             [#######.............]  35%  <- Learning
 ```
 
 ---
+
+<!-- ===================================================================== -->
+<!--                        GITHUB ANALYTICS                                -->
+<!-- ===================================================================== -->
 
 # > GITHUB.ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Crypto-Coder&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=FF2D95&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Crypto-Coder&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=FF2D95&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-Crypto-Coder&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-Crypto-Coder&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF&langs_count=8"/>
 
 <br><br>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Prathamesh-Crypto-Coder&hide_border=true&background=050816&ring=00E5FF&fire=FF2D95&currStreakLabel=00E5FF"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Prathamesh-Crypto-Coder&hide_border=true&background=050816&ring=00E5FF&fire=FF2D95&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B5CF6"/>
+
+</div>
+
+---
+
+# > GITHUB.TROPHIES
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Prathamesh-Crypto-Coder&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -705,115 +606,154 @@ System Design
 
 ---
 
-# > DEVELOPER.TERMINAL
+<!-- ===================================================================== -->
+<!--                         ONEFLOW ECOSYSTEM                              -->
+<!-- ===================================================================== -->
 
-```bash
-$ whoami
+# > ONEFLOW.ECOSYSTEM
 
-Prathamesh Sonar
+<div align="center">
 
-------------------------------------------------
+## 🌌 Building an ecosystem, not just repositories.
 
-$ startup
-
-OneFlow
-
-------------------------------------------------
-
-$ current-project
-
-SENTRA
-
-------------------------------------------------
-
-$ current-focus
-
-React
-Node.js
-FastAPI
-Artificial Intelligence
-
-------------------------------------------------
-
-$ future
-
-Build products used by millions.
-
-------------------------------------------------
-
-$ motto
-
-Learn.
-Build.
-Improve.
-Repeat.
-
-------------------------------------------------
-```
-
----
-
-# > ROADMAP
+</div>
 
 ```text
-2026
+                              ONEFLOW
 
-████████████████████
+                                 |
 
-Full Stack Development
+          +-----------------------+-----------------------+
 
-        │
+          |                      |                       |
 
-        ▼
+          v                      v                       v
 
-Artificial Intelligence
+     AI PRODUCTS          WEB APPLICATIONS         DEVELOPER TOOLS
 
-        │
+          |                      |                       |
 
-        ▼
+          v                      v                       v
 
-Advanced Backend
+       SENTRA             OneFlow Website           Future IDE
 
-        │
+          |                      |
 
-        ▼
+          v                      v
 
-AI Integration
+    AI Automation          Client Projects
 
-        │
+          |
 
-        ▼
+          v
 
-LLMs
-
-        │
-
-        ▼
-
-AI Agents
-
-        │
-
-        ▼
-
-SaaS Products
-
-        │
-
-        ▼
-
-OneFlow Ecosystem
-
-        │
-
-        ▼
-
-Future 🚀
+     LLM Agents
 ```
 
 ---
+
+# > DEVELOPMENT.TIMELINE
+
+```text
+Started Programming
+        |
+        v
+HTML & CSS  (Foundation)
+        |
+        v
+JavaScript  (Logic)
+        |
+        v
+Python  (Power)
+        |
+        v
+Full Stack Development
+        |
+        v
+Artificial Intelligence
+        |
+        v
+Founded OneFlow
+        |
+        v
+SENTRA AI Project
+        |
+        v
+LLMs & AI Agents (Now)
+        |
+        v
+SaaS Products & Scale (Next)
+        |
+        v
+Future AI Products
+```
+
+---
+
 <!-- ===================================================================== -->
-<!--                         DEVELOPER PHILOSOPHY                           -->
+<!--                           ROADMAP                                      -->
+<!-- ===================================================================== -->
+
+# > ROADMAP.2026
+
+```text
+-----------------------------------------------------------------
+
+  SHORT TERM
+
+  [####################]
+
+  [OK] Master React
+  [OK] Build Backend APIs with FastAPI & Node.js
+  [OK] Improve Problem Solving
+  [  ] Complete SENTRA AI core features
+  [  ] Launch OneFlow website
+
+-----------------------------------------------------------------
+
+  MID TERM
+
+  [##################..]
+
+  [  ] Build first SaaS product
+  [  ] Integrate LLM agents into projects
+  [  ] Deploy on Cloud (AWS / GCP)
+  [  ] Learn DevOps fundamentals
+  [  ] Scale OneFlow
+
+-----------------------------------------------------------------
+
+  LONG TERM
+
+  [###############.....]
+
+  [  ] Create AI products used by thousands
+  [  ] Build engineering team
+  [  ] Scale OneFlow globally
+  [  ] Build technology that creates real impact
+
+-----------------------------------------------------------------
+
+  KEY:  [OK] Completed     [  ] In Progress / Upcoming
+```
+
+---
+
+# > PROJECT.STATUS
+
+```text
+OneFlow Website         [##############..]  87%  [ACTIVE]
+SENTRA AI               [###########.....]  68%  [BUILDING]
+Portfolio               [#############...]  80%  [BUILDING]
+Resume Builder          [################] 100%  [COMPLETE]
+AI Integration          [########........]  50%  [LEARNING]
+System Design           [#####...........]  30%  [STARTED]
+```
+
+---
+
+<!-- ===================================================================== -->
+<!--                       DEVELOPER PHILOSOPHY                             -->
 <!-- ===================================================================== -->
 
 # > PHILOSOPHY.LOG
@@ -834,13 +774,13 @@ Every bug improves my debugging skills.
 
 Every feature improves my engineering mindset.
 
-Every project pushes me closer toward
-building products that people genuinely use.
+Every project pushes me closer toward building
+products that people genuinely use.
 
 My destination isn't just becoming a developer.
 
 It's becoming someone capable of building
-technology that creates real impact.
+technology that creates real impact in the world.
 ```
 
 ---
@@ -855,15 +795,17 @@ technology that creates real impact.
 
 ## Principles
 
-✔ Learn deeply
+OK  Learn deeply — not just on the surface
 
-✔ Build consistently
+OK  Build consistently — every single day
 
-✔ Write maintainable code
+OK  Write clean, maintainable code
 
-✔ Solve real problems
+OK  Solve real problems, not fake ones
 
-✔ Never stop improving
+OK  Ship fast, iterate faster
+
+OK  Never stop improving
 
 </td>
 
@@ -872,17 +814,17 @@ technology that creates real impact.
 ## Daily Loop
 
 ```cpp
-while(alive){
+while (alive) {
 
-    Learn();
+    Learn();    // something new
 
-    Build();
+    Build();    // something real
 
-    Debug();
+    Debug();    // something broken
 
-    Improve();
+    Improve();  // something existing
 
-    Repeat();
+    Repeat();   // forever
 
 }
 ```
@@ -895,143 +837,40 @@ while(alive){
 
 ---
 
-# > CURRENT.OBJECTIVES
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-SHORT TERM
-
-████████████████████
-
-✓ Master React
-
-✓ Build Backend APIs
-
-✓ Improve Problem Solving
-
-✓ Complete AI Projects
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-MID TERM
-
-██████████████████
-
-✓ Build SaaS Products
-
-✓ Launch OneFlow
-
-✓ Build SENTRA
-
-✓ Learn AI Agents
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-LONG TERM
-
-███████████████
-
-✓ Create AI Products
-
-✓ Build Engineering Team
-
-✓ Scale OneFlow
-
-✓ Build Technology Used Worldwide
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# > DEVELOPER.STATS
-
-```text
-Projects Built
-
-████████████████
-
-Projects Planned
-
-██████████████████████
-
-Things Learned
-
-██████████████████████
-
-Things Still To Learn
-
-██████████████████████████████████
-```
-
----
-
-# > TERMINAL
+# > DEVELOPER.TERMINAL
 
 ```bash
-$ help
-
-Available Commands
-
-whoami
-
-startup
-
-projects
-
-skills
-
-learning
-
-future
-
-contact
-
-----------------------------------------
-
 $ whoami
+  Prathamesh Sonar
+  Full Stack Developer | AI Builder | Founder
 
-Prathamesh Sonar
+$ cat /etc/startup
+  OneFlow -- Building Software. Building AI. Building the Future.
 
-----------------------------------------
+$ ls ./projects/
+  SENTRA/          OneFlow-Website/    Portfolio/
+  Resume-Builder/  AI-Apps/            (more coming...)
 
-$ startup
+$ cat current-focus.txt
+  React      -- Building UI systems
+  Node.js    -- Backend & APIs
+  FastAPI    -- Python backend
+  LLMs       -- Understanding AI deeply
+  AI Agents  -- The future of software
 
-OneFlow
+$ echo $MISSION
+  Build AI-powered software that solves real-world problems.
 
-----------------------------------------
+$ ./motto.sh
+  Learn. Build. Improve. Repeat.
 
-$ ai
+$ ping future.oneflow.dev
+  Pinging...
+  [OK] Build products used by millions
+  [OK] Scale OneFlow globally
+  [OK] Create real impact through technology
 
-SENTRA
-
-----------------------------------------
-
-$ mission
-
-Build software that solves
-real-world problems.
-
-----------------------------------------
-
-$ learning
-
-React
-
-FastAPI
-
-Artificial Intelligence
-
-Backend Development
-
-----------------------------------------
-
-$ future
-
-AI Powered Products
-
-----------------------------------------
+  Destination: Reachable. Time: Depends on consistency.
 ```
 
 ---
@@ -1039,27 +878,47 @@ AI Powered Products
 # > QUOTE.LOG
 
 ```text
-"Success isn't built in a single breakthrough.
-
-It's built through thousands of small improvements
-that nobody notices."
-
-— Prathamesh Sonar
+  +==================================================================+
+  |                                                                  |
+  |  "Success isn't built in a single breakthrough.                  |
+  |                                                                  |
+  |   It's built through thousands of small improvements             |
+  |   that nobody notices."                                          |
+  |                                                                  |
+  |                                        -- Prathamesh Sonar       |
+  |                                                                  |
+  +==================================================================+
 ```
 
 ---
+
+<!-- ===================================================================== -->
+<!--                            CONNECT                                     -->
+<!-- ===================================================================== -->
 
 # > CONNECT
 
 <div align="center">
 
-### Thanks for visiting my profile.
+### Thanks for visiting. Let's build something meaningful together.
 
-If you enjoy building software,
-Artificial Intelligence,
-or innovative products,
+If you're into software, AI, startups, or just building things that matter — reach out.
 
-let's connect and build something meaningful together.
+<br>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-Prathamesh--Crypto--Coder-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816)](https://github.com/Prathamesh-Crypto-Coder)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816)](https://linkedin.com/in/prathamesh-sonar)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/TWITTER-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=050816)](https://twitter.com/prathamesh_dev)
+&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-Contact-FF2D95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816)](mailto:prathamesh@oneflow.dev)
+
+<br>
+
+```text
+Open to: Collaboration | Projects | AI Discussions | Startup Ideas
+```
 
 </div>
 
@@ -1068,21 +927,19 @@ let's connect and build something meaningful together.
 # > SYSTEM.EXIT
 
 ```text
-Saving Progress...
+[ONEFLOW OS] Saving session...
 
-██████████████████████████████████
+[########################################] 100%
 
-Repositories Synced
+[OK] Repositories Synced
+[OK] Skills Updated
+[OK] Projects Logged
+[OK] Mission Saved
+[OK] Consistency Maintained
 
-Projects Loaded
-
-Mission Updated
-
-Status Saved
-
-System Ready.
-
-Goodbye, Developer.
+[SYSTEM] Thank you for visiting ONEFLOW OS.
+[SYSTEM] Keep building. Keep learning. Keep shipping.
+[SYSTEM] Goodbye, Developer.
 ```
 
 <div align="center">
